@@ -10,7 +10,7 @@
     - Organizations implementing mTLS act as their own certificate authority
 
     ```sh
-    cd ca/
+    cd certificates/ca/
 
     openssl genpkey -algorithm RSA -out ca-key.pem  #generate CA's private key
 
