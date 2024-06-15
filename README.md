@@ -1,6 +1,6 @@
 # mTLS Authentication
 
-[<img src="./illustration.png" alt="mTLS flow"/>](https://www.cloudflare.com/resources/images/slt3lc6tev37/5SjaQfZzDLEGqyzFkA0AA4/d227a26bbd7bc6d24363e9b9aaabef55/how_mtls_works-what_is_mutual_tls.png)<br/><br/>
+[<img src="./illustration.png" alt="mTLS flow" style="background-color: #ffffff;"/>](https://www.cloudflare.com/resources/images/slt3lc6tev37/5SjaQfZzDLEGqyzFkA0AA4/d227a26bbd7bc6d24363e9b9aaabef55/how_mtls_works-what_is_mutual_tls.png)<br/><br/>
 
 ## Certificates
 
