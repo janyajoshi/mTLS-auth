@@ -108,4 +108,5 @@
 
   - postman > settings > certificates tab > client certificates > add Certificate
   - Add host, port, pfx file and passphrase
-  - postman should work fine now
+  - postman should work fine nows
+  - remember to use http`s` in postman as well
